@@ -1,39 +1,43 @@
 <template>
-    <main class="education-page px-6 py-8 text-white">
-      <h1 class="text-3xl font-bold mb-6">Education</h1>
-  
-      <div class="space-y-6">
-        <!-- University -->
-        <div class="bg-gray-800 rounded-lg p-5">
-          <h2 class="text-xl font-semibold">
-            Engineer’s Degree in Computer Science
-          </h2>
-          <p class="text-gray-300 mt-1">
-            Institute of Technology of Cambodia (ITC)
-          </p>
-          <p class="text-sm text-gray-400 mb-3">
-            2018 – 2023
-          </p>
-          <ul class="list-disc list-inside text-gray-300 space-y-1">
-            <li>Studied software engineering and computer science fundamentals</li>
-            <li>Focused on mobile application development</li>
-            <li>Completed academic and practical programming projects</li>
-          </ul>
-        </div>
-  
-        <!-- High School -->
-        <div class="bg-gray-800 rounded-lg p-5">
-          <h2 class="text-xl font-semibold">
-            High School Diploma
-          </h2>
-          <p class="text-gray-300 mt-1">
-            Char Thmey High School
-          </p>
-          <p class="text-sm text-gray-400 mb-3">
-            2012 – 2018
-          </p>
-        </div>
+  <main class="education-page px-6 py-8 text-white bg-gradient-to-tr from-purple-500 to-pink-500 min-h-screen flex flex-col items-center">
+    <h1 class="text-3xl font-bold mb-8">Education & Learning</h1>
+
+    <div class="space-y-6 w-full max-w-3xl">
+      <!-- iOS Swift Learning -->
+      <div class="bg-white/20 backdrop-blur-md rounded-lg p-6 shadow-lg">
+        <h2 class="text-xl font-semibold text-white">
+          iOS Swift Learning
+        </h2>
+        <p class="text-gray-200 mt-1">
+          Self-learning and practice while working at <strong>Acleda</strong>
+        </p>
+        <p class="text-sm text-gray-400 mb-3">
+          2024
+        </p>
+        <ul class="list-disc list-inside text-gray-200 space-y-1">
+          <li>Learned iOS Swift fundamentals</li>
+          <li>Built small experimental apps</li>
+          <li>Practiced UI/UX design and clean code structure</li>
+        </ul>
       </div>
-    </main>
-  </template>
-  
+
+      <!-- Flutter Project -->
+      <div class="bg-white/20 backdrop-blur-md rounded-lg p-6 shadow-lg">
+        <h2 class="text-xl font-semibold text-white">
+          Flutter Project - "NBTC Registration"
+        </h2>
+        <p class="text-gray-200 mt-1">
+          Developed a cross-platform app for NBTC
+        </p>
+        <p class="text-sm text-gray-400 mb-3">
+          2025
+        </p>
+        <ul class="list-disc list-inside text-gray-200 space-y-1">
+          <li>Implemented full mobile functionality</li>
+          <li>Integrated backend for registration</li>
+          <li>Designed responsive UI and smooth navigation</li>
+        </ul>
+      </div>
+    </div>
+  </main>
+</template>

@@ -1,19 +1,19 @@
 <template>
-    <main class="opensource-page">
-        <h1>Opensource</h1>
-        <p>Here are some of my contributions to open-source and personal projects:</p>
-        <ul>
-            <li>
-                <strong>Acleda iOS Learning Projects (2024)</strong><br>
-                <strong>Technologies:</strong> Swift, Xcode<br>
-                <strong>Description:</strong> Developed experimental iOS apps to practice Swift, including small utilities and UI experiments. Code was shared on GitHub for learning and collaboration.
-            </li>
-            <li>
-                <strong>NBTC Registration App (2025)</strong><br>
-                <strong>Technologies:</strong> Flutter, Dart<br>
-                <strong>Description:</strong> Built a mobile registration app for NBTC. Implemented user interface, form validation, and backend integration. Shared the project on GitHub as an example of cross-platform development.
-            </li>
-            <!-- You can add more projects here -->
-        </ul>
+    <main class="opensource-page bg-gradient-to-tr from-green-500 to-teal-500 flex flex-col items-center justify-center min-h-screen p-6">
+        <div class="max-w-4xl bg-white/20 backdrop-blur-md rounded-2xl p-10 text-center shadow-lg">
+            <h1 class="text-4xl font-bold text-white mb-6">Opensource</h1>
+            <ul class="text-white text-xl space-y-4 text-left">
+                <li>
+                    <strong>Acleda iOS Learning Projects (2024)</strong><br>
+                    Technologies: Swift, Xcode<br>
+                    Developed experimental apps and shared on GitHub for practice.
+                </li>
+                <li>
+                    <strong>NBTC Registration App (2025)</strong><br>
+                    Technologies: Flutter, Dart<br>
+                    Built full app and shared project on GitHub as cross-platform example.
+                </li>
+            </ul>
+        </div>
     </main>
 </template>
