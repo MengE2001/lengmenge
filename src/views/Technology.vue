@@ -75,7 +75,7 @@
               class="w-10 h-10"
             />
             <img
-              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
               alt="Tailwind"
               class="w-10 h-10"
             />
