@@ -8,14 +8,14 @@
                 <div class="bg-white/20 backdrop-blur-md rounded-2xl p-8 shadow-xl text-white">
                     <div class="flex flex-col md:flex-row justify-between items-start md:items-center mb-4">
                         <div>
-                            <h2 class="text-2xl font-bold">Mobile App Developer</h2>
+                            <h2 class="text-2xl font-bold">IOS Developer</h2>
                             <h3 class="text-xl text-indigo-200">ACLEDA Bank Plc.</h3>
                         </div>
                         <span class="mt-2 md:mt-0 px-4 py-1 bg-white/20 rounded-full text-sm font-semibold">2024 – Present</span>
                     </div>
                     
                     <ul class="list-disc list-inside space-y-2 text-white/90">
-                        <li>Maintained and improved production mobile applications for iOS and Flutter.</li>
+                        <li>Maintained and improved production mobile applications for iOS.</li>
                         <li>Implemented security features and optimized app performance.</li>
                         <li>Collaborated with banking backend teams for secure API integrations.</li>
                     </ul>
