@@ -16,17 +16,17 @@
                 <span class="material-icons">person</span>
                 <span class="text">Profile</span>
             </router-link>
-            <router-link class="button" to="/technology">
-                <span class="material-icons">polyline</span>
-                <span class="text">Technology</span>
+            <router-link class="button" to="/skills">
+                <span class="material-icons">code</span>
+                <span class="text">Skills</span>
             </router-link>
-            <router-link class="button" to="/achivement">
-                <span class="material-icons">verified</span>
-                <span class="text">Achivement</span>
+            <router-link class="button" to="/experience">
+                <span class="material-icons">work</span>
+                <span class="text">Experience</span>
             </router-link>
-            <router-link class="button" to="/education">
-                <span class="material-icons">school</span>
-                <span class="text">Education</span>
+            <router-link class="button" to="/projects">
+                <span class="material-icons">apps</span>
+                <span class="text">Projects</span>
             </router-link>
             <router-link class="button" to="/contact">
                 <span class="material-icons">email</span>

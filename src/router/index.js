@@ -9,16 +9,16 @@ const router = createRouter({
             component: Profile
         },
         {
-            path: '/technology',
+            path: '/skills',
             component: () => import('../views/Technology.vue')
         },
         {
-            path: '/achivement',
-            component: () => import('../views/Achivement.vue')
+            path: '/experience',
+            component: () => import('../views/Experience.vue')
         },
         {
-            path: '/education',
-            component: () => import('../views/Education.vue')
+            path: '/projects',
+            component: () => import('../views/Projects.vue')
         },
         {
             path: '/contact',
