@@ -13,7 +13,7 @@
                     
                     <ul class="list-disc list-inside space-y-2 text-sm text-white/90 flex-grow">
                         <li>iOS app for viewing, tracking, and exporting receipt data.</li>
-                        <li>Built using Swift, UIKit, MVVM.</li>
+                        <li>Built using Swift, UIKit, MVC.</li>
                         <li>Implemented dynamic table views with expandable sections.</li>
                         <li>Added PDF export and share functionality.</li>
                         <li>Integrated REST APIs and handled large datasets.</li>

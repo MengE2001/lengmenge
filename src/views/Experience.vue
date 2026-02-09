@@ -32,7 +32,7 @@
                     </div>
                     
                     <ul class="list-disc list-inside space-y-2 text-white/90">
-                        <li>Built complex screens using UIKit and Flutter widgets.</li>
+                        <li>Built complex screens using Flutter widgets.</li>
                         <li>Developed multiple projects from scratch to production.</li>
                         <li>Integrated REST APIs and handled asynchronous data loading.</li>
                     </ul>
@@ -44,7 +44,7 @@
             <div class="space-y-6">
                  <!-- Education Item -->
                  <div class="bg-white/20 backdrop-blur-md rounded-2xl p-6 shadow-xl text-white">
-                    <h2 class="text-xl font-bold">Bachelor's Degree in Computer Science</h2>
+                    <h2 class="text-xl font-bold">Engineer's Degree in Computer Science</h2>
                     <p class="text-indigo-200">Institute of Technology of Cambodia (ITC)</p>
                     <p class="text-sm text-white/70 mt-1">2018 - 2023</p>
                 </div>

@@ -64,7 +64,7 @@
            <div class="bg-white/20 rounded-xl p-6 text-white backdrop-blur-sm">
              <h3 class="text-xl font-bold mb-4 border-b border-white/30 pb-2">Tools</h3>
              <ul class="space-y-2">
-                <li class="flex items-center"><span class="mr-2">🛠️</span> Xcode, Android Studio</li>
+                <li class="flex items-center"><span class="mr-2">🛠️</span> Xcode, Android Studio, Antigravity</li>
                 <li class="flex items-center"><span class="mr-2">🛠️</span> Git, GitHub</li>
                 <li class="flex items-center"><span class="mr-2">🛠️</span> Postman, Figma</li>
              </ul>
