@@ -60,6 +60,56 @@
                     </div>
                 </div>
 
+
+                <!-- Anakut Job -->
+                <div class="bg-white/20 backdrop-blur-md rounded-2xl p-6 shadow-xl text-white flex flex-col hover:transform hover:scale-105 transition-all duration-300">
+                    <div class="h-12 w-12 bg-white/20 rounded-lg flex items-center justify-center mb-4 text-2xl">💼</div>
+                    <h2 class="text-2xl font-bold mb-2">Anakut Job</h2>
+                    <p class="text-emerald-200 text-sm mb-4 font-semibold">Production • Flutter</p>
+                    
+                    <ul class="list-disc list-inside space-y-2 text-sm text-white/90 flex-grow">
+                        <li>Built with Flutter.</li>
+                        <li>Designed UI/UX.</li>
+                        <li>Deployed to Play Store and App Store.</li>
+                    </ul>
+
+                    <div class="mt-6 flex space-x-3">
+                         <a href="#" class="flex-1 py-2 bg-white/20 rounded-lg text-center hover:bg-white/30 transition text-sm font-semibold">View Details</a>
+                    </div>
+                </div>
+
+                <!-- Anakut Consulting -->
+                <div class="bg-white/20 backdrop-blur-md rounded-2xl p-6 shadow-xl text-white flex flex-col hover:transform hover:scale-105 transition-all duration-300">
+                    <div class="h-12 w-12 bg-white/20 rounded-lg flex items-center justify-center mb-4 text-2xl">🏢</div>
+                    <h2 class="text-2xl font-bold mb-2">Anakut Consulting</h2>
+                    <p class="text-emerald-200 text-sm mb-4 font-semibold">Webview • Flutter</p>
+                    
+                    <ul class="list-disc list-inside space-y-2 text-sm text-white/90 flex-grow">
+                        <li>Built with Flutter (Webview).</li>
+                        <li>Deployed to Play Store.</li>
+                    </ul>
+
+                    <div class="mt-6 flex space-x-3">
+                         <a href="#" class="flex-1 py-2 bg-white/20 rounded-lg text-center hover:bg-white/30 transition text-sm font-semibold">View Details</a>
+                    </div>
+                </div>
+
+                <!-- NBTC Registration -->
+                <div class="bg-white/20 backdrop-blur-md rounded-2xl p-6 shadow-xl text-white flex flex-col hover:transform hover:scale-105 transition-all duration-300">
+                    <div class="h-12 w-12 bg-white/20 rounded-lg flex items-center justify-center mb-4 text-2xl">📝</div>
+                    <h2 class="text-2xl font-bold mb-2">NBTC Registration</h2>
+                    <p class="text-emerald-200 text-sm mb-4 font-semibold">Production • Flutter</p>
+                    
+                    <ul class="list-disc list-inside space-y-2 text-sm text-white/90 flex-grow">
+                        <li>Built with Flutter.</li>
+                        <li>Deployed to Play Store and App Store.</li>
+                    </ul>
+
+                    <div class="mt-6 flex space-x-3">
+                         <a href="#" class="flex-1 py-2 bg-white/20 rounded-lg text-center hover:bg-white/30 transition text-sm font-semibold">View Details</a>
+                    </div>
+                </div>
+
             </div>
         </div>
     </main>
