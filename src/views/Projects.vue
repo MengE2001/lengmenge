@@ -106,7 +106,7 @@
                     </ul>
 
                     <div class="mt-6 flex space-x-3">
-                         <a href="https://play.google.com/store/apps/details?id=com.vietips.nbtc_blood_donation_app" class="flex-1 py-2 bg-white/20 rounded-lg text-center hover:bg-white/30 transition text-sm font-semibold">View Details</a>
+                         <a href="#https://play.google.com/store/apps/details?id=com.vietips.nbtc_blood_donation_app" class="flex-1 py-2 bg-white/20 rounded-lg text-center hover:bg-white/30 transition text-sm font-semibold">View Details</a>
                     </div>
                 </div>
 
